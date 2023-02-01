@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Quicksand&family=Roboto:wght@100&display=swap");
+h1 {
+  color: #a8328b;
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  color: #1aee01;
+}
+
+.box-body {
+  background-color: #a84321;
+}

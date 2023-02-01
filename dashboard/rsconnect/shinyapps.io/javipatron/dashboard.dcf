@@ -1,0 +1,11 @@
+name: dashboard
+title:
+username:
+account: javipatron
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8151277
+bundleId: 6782323
+url: https://javipatron.shinyapps.io/dashboard/
+when: 1674854569.48692
+lastSyncTime: 1674854569.48694

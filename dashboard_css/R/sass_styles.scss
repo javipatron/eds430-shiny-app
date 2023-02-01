@@ -1,0 +1,28 @@
+// sass variables
+
+$pink: #a8328b;
+$orange: #a84321;
+$green: #1aee01;
+
+
+//font-size: 
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Quicksand&family=Roboto:wght@100&display=swap');
+
+$aboreto: 'Roboto', sans-serif;
+
+// css column-rule-style: 
+h1 {
+  color: $pink;
+  font-family: $aboreto;
+}
+
+
+h3 {
+  color: $green;
+}
+
+.box-body {
+  background-color: $orange;
+}
+
+
